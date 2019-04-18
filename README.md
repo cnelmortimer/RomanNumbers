@@ -4,15 +4,15 @@ _RomanNumbers_ is a bidirectional roman-decimal converter for Haiku. It features
 
 The main window of the GUI is shown next:
 
-![RomanNumbers screenshot 1] (./Captures/MainWindow.png)
+![RomanNumbers screenshot 1](./Captures/MainWindow.png)
 
 This is the exam window of the program:
 
-![RomanNumbers screenshot 2] (./Captures/ExamWindow.png)
+![RomanNumbers screenshot 2](./Captures/ExamWindow.png)
 
 Finally, you can also convert numbers from the console by simply executing the program with the number to convert as its argument. That execution mode is shown next:
 
-![RomanNumbers screenshot 3] (./Captures/Console.png)
+![RomanNumbers screenshot 3](./Captures/Console.png)
 
 Enjoy the program and feel free to report any error that you find.
 
