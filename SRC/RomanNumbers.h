@@ -3,6 +3,7 @@
 #define ROMAN_NUM_LIB
 
 #include <cstdlib>
+#include <cstring>
 
 int romanToDecimal(int len, const char* str);
 

@@ -10,6 +10,7 @@
 #include <View.h>
 #include <CheckBox.h>
 #include <cstdlib>
+#include <cstring>
 #include "ConversionHelper.h"
 #include "Definitions.h"
 
