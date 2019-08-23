@@ -45,7 +45,7 @@ char* FromRomanToDecimal(const char* val, char** outErrorMessage){
 				output = (char*) malloc(sizeof(char)*12);
 				sprintf(output, "%d", result);
 			}else{
-				printf("The input roman number seems incorrect");
+				*outErrorMessage = "The input roman number seems incorrect";
 			}
 			free(extraTest);
 		}	
